@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
-Arthor: 
+Author: Mohd Irfan
 ---
 
